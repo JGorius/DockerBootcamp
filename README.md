@@ -2,7 +2,7 @@
 
 <br>
 
-Das DockerBootcamp wird gehalten, um ein generelles Verständnis für Docker und Portainer zu vermitteln und um eine Vertiefung des Verständnisses für Stack-Bereitstellung zu gewährleisten, u.a. anhand eines Beispiels einer Datenbank-Installation.
+Das DockerBootcamp soll ein generelles Verständnis für Docker und Portainer zu vermitteln und um eine Vertiefung des Verständnisses für Stack-Bereitstellung zu gewährleisten, u.a. anhand eines Beispiels einer Datenbank-Installation.
 
 Dadurch soll die lokale Entwicklung vereinfacht werden, sowie der Bereitschaftseinsatz, eine  Containerisierte Anwendung neustarten zukönnen.
 
@@ -17,7 +17,7 @@ Dadurch soll die lokale Entwicklung vereinfacht werden, sowie der Bereitschaftse
 <br>
 
 ### Installation Portainer
->  1. https://downloads.portainer.io/ce2-19/portainer-agent-stack.yml aufrufen
+>  1. Die aktuellste Version des Stacks laden: https://downloads.portainer.io/ce2-19/portainer-agent-stack.yml 
 >  2. Dies "speichern unter" in "Downloads" als "portainer-agent-stack.yml"
 >  3. Terminal: cd Downloads
 >  4. Befehl:  docker stack deploy -c portainer-agent-stack.yml portainer
@@ -26,14 +26,13 @@ Dadurch soll die lokale Entwicklung vereinfacht werden, sowie der Bereitschaftse
 
 <br>
 
-In einem Stack können nun mehrere Container zusammengefasst werden oder auch orchestriert.
+In einem Stack können nun mehrere Container zusammengefasst werden oder auch orchestriert genannt.
 <br>
 Ein möglichst einfaches Beispiel wäre der Bestandteil einer Geschäftsanwendung:
 <br>
 Frontend - Backend - Datenbank
 
 <br>
-
 Nun folgen Beispiele, die während des Bootcamp verwendet werden sollen. <br>
 Es wird nun Schritt für Schritt erläutert, wie eine Stack-Datei aufgebaut ist.
 
