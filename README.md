@@ -34,6 +34,11 @@ Frontend - Backend - Datenbank
 
 <br>
 
+Nun folgen Beispiele, die während des Bootcamp verwendet werden sollen. <br>
+Es wird nun Schritt für Schritt erläutert, wie eine Stack-Datei aufgebaut ist.
+
+<br>
+
 ### Beispiel 0: HelloWorld 
 ````
 version: "3.8"
