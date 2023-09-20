@@ -2,7 +2,7 @@
 
 <br>
 
-Das DockerBootcamp wird gehalten, um ein generelles Verständnis für Docker und Portainer zu vermitteln und eine Vertiefung des Verständnisses für Stack-Bereitstellung zu gewährleisten, u.a. anhand eines Beispiels einer Datenbank-Installation.
+Das DockerBootcamp wird gehalten, um ein generelles Verständnis für Docker und Portainer zu vermitteln und um eine Vertiefung des Verständnisses für Stack-Bereitstellung zu gewährleisten, u.a. anhand eines Beispiels einer Datenbank-Installation.
 
 Dadurch soll die lokale Entwicklung vereinfacht werden, sowie der Bereitschaftseinsatz, eine  Containerisierte Anwendung neustarten zukönnen.
 
